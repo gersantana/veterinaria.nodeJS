@@ -6,9 +6,9 @@ Proyecto con Node.JS para agregar citas veterinarias usando 'FS'.
 
 ### Agregar cita
    Para agregar una cita se debe ejecutar el siguiente comando en consola.
-#### node index ingresar 
-   index es el archivo y agregar es la función la cual recibe 5 argumentos.
-#### => node index ingresar nombre edad tipo color enfermedad
+#### node index registrar 
+   index es el archivo y registrar es la función la cual recibe 5 argumentos.
+#### => node index registrar nombre edad tipo color enfermedad
    Los argumentos deben ser ingresados en el mismo orden de los parametros que pide la funcion.
 
 ### Leer citas agendadas
